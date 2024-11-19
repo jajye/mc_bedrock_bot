@@ -1,0 +1,32 @@
+{
+  "name": "be_bot",
+  "version": "1.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/**/*"
+    ]
+  },
+  "author": "jjc",
+  "license": "MIT",
+  "dependencies": {
+    "bedrock-protocol": "^3.37.0",
+    "bytenode": "^1.5.6",
+    "console-log-colors": "^0.4.0",
+    "minecraft-data": "^3.66.0",
+    "minecraft-protocol": "^1.43.1",
+    "pbkdf2": "^3.1.2",
+    "prismarine-chat": "^1.9.0",
+    "prismarine-chunk": "^1.35.0",
+    "prismarine-entity": "^2.3.1",
+    "prismarine-nbt": "^2.5.0",
+    "prismarine-registry": "^1.7.0",
+    "vec3": "^0.1.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.9"
+  }
+}

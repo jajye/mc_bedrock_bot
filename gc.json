@@ -1,0 +1,33 @@
+{
+    "proxy_server_ip":"bedrock.mcfallout.net",
+    "proxy_server_port":19132,
+    "set_bot_operator_list":"",
+    "set_facility_advertisement":
+    [
+        {"content":"設施廣告組合1", "weight":0},
+        {"content":"設施廣告組合2", "weight":0}
+    ],
+    "set_trade_advertisement":
+    [
+        {"content":"交易廣告組合1", "weight":0},
+        {"content":"交易廣告組合2", "weight":0}
+    ],
+    "set_lottery_advertisement":
+    [
+        {"content":"抽獎廣告組合1", "weight":0},
+        {"content":"抽獎廣告組合2", "weight":0}
+    ],
+
+    "bot_startup_channel":10,
+
+    "beacon_block_position":{"x": -5747,   "y": 71,   "z": 2389},
+    "beacon_consume_item_id":311,
+
+    "usual_armor_list":[354,355,356,357],
+    "white_item_list":[0,322,528,622,354,355,356,357],
+    "set_stuck_time":5,
+    "set_attack_range":6.999,
+    "set_summon_illager_count":44,
+    "raid_mob_list":["minecraft:witch","minecraft:pillager","minecraft:vindicator","minecraft:evocation_illager","minecraft:illusioner","minecraft:vex"],
+    "normal_mob_list":["minecraft:oak_wall_sign","minecraft:wither_skeleton","minecraft:illusioner","minecraft:blaze","minecraft:drowned","minecraft:zombie_pigman","minecraft:zombie","minecraft:skeleton"]
+}
